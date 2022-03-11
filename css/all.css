@@ -5622,8 +5622,6 @@ fieldset:disabled .btn {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
-  /* 等高: 新增height */
-  height: 100%;
 }
 
 .card>hr {
